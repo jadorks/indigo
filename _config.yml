@@ -118,7 +118,7 @@ plugins:
   - jekyll-paginate-v2
 
 jekyll-mentions:
-  base_url: https://github.com
+  base_url: indigo
 
 compress_html:
   ignore:
