@@ -17,4 +17,4 @@ externalLink: false
 
 ---
 
-[Bolga Crafts For Resilient Communities](https://emergencyhub.co) is a social enterprise that sells beautifully handcrafted bags and baskets produced by the ‘Frafra’ or ‘Grune’ ethnic group from Bolgatanga and surrounding local communities in Northern Ghana. I built an e-commerce website so Bolga Crafts For Resilient Communities would be able to move its business online and offer its handcrafted bags and baskets to an international market.
+[Bolga Crafts For Resilient Communities](https://bolgacrafts4rc.com) is a social enterprise that sells beautifully handcrafted bags and baskets produced by the ‘Frafra’ or ‘Grune’ ethnic group from Bolgatanga and surrounding local communities in Northern Ghana. I built an e-commerce website so Bolga Crafts For Resilient Communities would be able to move its business online and offer its handcrafted bags and baskets to an international market.
